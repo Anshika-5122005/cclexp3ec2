@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #6c63ff;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.profile img {
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills li {
+    background: #6c63ff;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
